@@ -18,8 +18,8 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281327441039', '6282230819722']
-global.bsu = ['6281327441039']
+global.owner = ['628177904519]
+global.bsu = ['6281779045019']
 global.premium = ['6281327441039']
 global.pembeli = ['6281327441039', '6283111532238']
 global.packname = 'DarkBotMD'
@@ -36,7 +36,7 @@ global.mess = {
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
     wait: 'Loading...',
-    pembeli: "*Fitur premium user only *⚠️\nbeli premium dengan harga *15k* via pulsa, atau *11k* via ovo\ncontact: 081327441039 ✅",
+    pembeli: "*Fitur premium user only *⚠️\nbeli premium dengan harga *15k* via pulsa, atau *11k* via ovo\ncontact: 081779045019 ✅",
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12, atau beli premium dengan harga *15k* via pulsa, atau *11k* via ovo',
 }
 global.limitawal = {
